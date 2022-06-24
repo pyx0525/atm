@@ -32,7 +32,7 @@ void display();//查找
  int t;
  char id[11],password[7];
 int main(){
-system("COLOR 0A"); int b;
+system("COLOR 7"); int b;
 	Flag1();//引入主界面
 	do{
 
